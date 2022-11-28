@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/imasnarky.github.io/public/index.html/static/css/main.2b96a337.chunk.css",
-    "main.js": "/imasnarky.github.io/public/index.html/static/js/main.b8244bc6.chunk.js",
-    "main.js.map": "/imasnarky.github.io/public/index.html/static/js/main.b8244bc6.chunk.js.map",
-    "runtime-main.js": "/imasnarky.github.io/public/index.html/static/js/runtime-main.0d69acc0.js",
-    "runtime-main.js.map": "/imasnarky.github.io/public/index.html/static/js/runtime-main.0d69acc0.js.map",
-    "static/css/2.b69a63ac.chunk.css": "/imasnarky.github.io/public/index.html/static/css/2.b69a63ac.chunk.css",
-    "static/js/2.ec1983a4.chunk.js": "/imasnarky.github.io/public/index.html/static/js/2.ec1983a4.chunk.js",
-    "static/js/2.ec1983a4.chunk.js.map": "/imasnarky.github.io/public/index.html/static/js/2.ec1983a4.chunk.js.map",
-    "index.html": "/imasnarky.github.io/public/index.html/index.html",
-    "static/css/2.b69a63ac.chunk.css.map": "/imasnarky.github.io/public/index.html/static/css/2.b69a63ac.chunk.css.map",
-    "static/css/main.2b96a337.chunk.css.map": "/imasnarky.github.io/public/index.html/static/css/main.2b96a337.chunk.css.map",
-    "static/js/2.ec1983a4.chunk.js.LICENSE.txt": "/imasnarky.github.io/public/index.html/static/js/2.ec1983a4.chunk.js.LICENSE.txt",
-    "static/media/abbrs.ebd0e99b.xlsx": "/imasnarky.github.io/public/index.html/static/media/abbrs.ebd0e99b.xlsx"
+    "main.css": "/public/index.html/static/css/main.2b96a337.chunk.css",
+    "main.js": "/public/index.html/static/js/main.4197c9ef.chunk.js",
+    "main.js.map": "/public/index.html/static/js/main.4197c9ef.chunk.js.map",
+    "runtime-main.js": "/public/index.html/static/js/runtime-main.1fd98cd8.js",
+    "runtime-main.js.map": "/public/index.html/static/js/runtime-main.1fd98cd8.js.map",
+    "static/css/2.b69a63ac.chunk.css": "/public/index.html/static/css/2.b69a63ac.chunk.css",
+    "static/js/2.ec1983a4.chunk.js": "/public/index.html/static/js/2.ec1983a4.chunk.js",
+    "static/js/2.ec1983a4.chunk.js.map": "/public/index.html/static/js/2.ec1983a4.chunk.js.map",
+    "index.html": "/public/index.html/index.html",
+    "static/css/2.b69a63ac.chunk.css.map": "/public/index.html/static/css/2.b69a63ac.chunk.css.map",
+    "static/css/main.2b96a337.chunk.css.map": "/public/index.html/static/css/main.2b96a337.chunk.css.map",
+    "static/js/2.ec1983a4.chunk.js.LICENSE.txt": "/public/index.html/static/js/2.ec1983a4.chunk.js.LICENSE.txt",
+    "static/media/abbrs.ebd0e99b.xlsx": "/public/index.html/static/media/abbrs.ebd0e99b.xlsx"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d69acc0.js",
+    "static/js/runtime-main.1fd98cd8.js",
     "static/css/2.b69a63ac.chunk.css",
     "static/js/2.ec1983a4.chunk.js",
     "static/css/main.2b96a337.chunk.css",
-    "static/js/main.b8244bc6.chunk.js"
+    "static/js/main.4197c9ef.chunk.js"
   ]
 }
