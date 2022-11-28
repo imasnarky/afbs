@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/james-craven.github.io/pdf-bullets/static/css/main.2b96a337.chunk.css",
-    "main.js": "/james-craven.github.io/pdf-bullets/static/js/main.4c30cf23.chunk.js",
-    "main.js.map": "/james-craven.github.io/pdf-bullets/static/js/main.4c30cf23.chunk.js.map",
-    "runtime-main.js": "/james-craven.github.io/pdf-bullets/static/js/runtime-main.7b1d655e.js",
-    "runtime-main.js.map": "/james-craven.github.io/pdf-bullets/static/js/runtime-main.7b1d655e.js.map",
-    "static/css/2.b69a63ac.chunk.css": "/james-craven.github.io/pdf-bullets/static/css/2.b69a63ac.chunk.css",
-    "static/js/2.98885c9b.chunk.js": "/james-craven.github.io/pdf-bullets/static/js/2.98885c9b.chunk.js",
-    "static/js/2.98885c9b.chunk.js.map": "/james-craven.github.io/pdf-bullets/static/js/2.98885c9b.chunk.js.map",
-    "index.html": "/james-craven.github.io/pdf-bullets/index.html",
-    "static/css/2.b69a63ac.chunk.css.map": "/james-craven.github.io/pdf-bullets/static/css/2.b69a63ac.chunk.css.map",
-    "static/css/main.2b96a337.chunk.css.map": "/james-craven.github.io/pdf-bullets/static/css/main.2b96a337.chunk.css.map",
-    "static/js/2.98885c9b.chunk.js.LICENSE.txt": "/james-craven.github.io/pdf-bullets/static/js/2.98885c9b.chunk.js.LICENSE.txt",
-    "static/media/abbrs.ebd0e99b.xlsx": "/james-craven.github.io/pdf-bullets/static/media/abbrs.ebd0e99b.xlsx"
+    "main.css": "/pdf-bullets/static/css/main.2b96a337.chunk.css",
+    "main.js": "/pdf-bullets/static/js/main.ee5edf5a.chunk.js",
+    "main.js.map": "/pdf-bullets/static/js/main.ee5edf5a.chunk.js.map",
+    "runtime-main.js": "/pdf-bullets/static/js/runtime-main.97c2cd4d.js",
+    "runtime-main.js.map": "/pdf-bullets/static/js/runtime-main.97c2cd4d.js.map",
+    "static/css/2.b69a63ac.chunk.css": "/pdf-bullets/static/css/2.b69a63ac.chunk.css",
+    "static/js/2.98885c9b.chunk.js": "/pdf-bullets/static/js/2.98885c9b.chunk.js",
+    "static/js/2.98885c9b.chunk.js.map": "/pdf-bullets/static/js/2.98885c9b.chunk.js.map",
+    "index.html": "/pdf-bullets/index.html",
+    "static/css/2.b69a63ac.chunk.css.map": "/pdf-bullets/static/css/2.b69a63ac.chunk.css.map",
+    "static/css/main.2b96a337.chunk.css.map": "/pdf-bullets/static/css/main.2b96a337.chunk.css.map",
+    "static/js/2.98885c9b.chunk.js.LICENSE.txt": "/pdf-bullets/static/js/2.98885c9b.chunk.js.LICENSE.txt",
+    "static/media/abbrs.ebd0e99b.xlsx": "/pdf-bullets/static/media/abbrs.ebd0e99b.xlsx"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b1d655e.js",
+    "static/js/runtime-main.97c2cd4d.js",
     "static/css/2.b69a63ac.chunk.css",
     "static/js/2.98885c9b.chunk.js",
     "static/css/main.2b96a337.chunk.css",
-    "static/js/main.4c30cf23.chunk.js"
+    "static/js/main.ee5edf5a.chunk.js"
   ]
 }
