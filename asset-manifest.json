@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/james-craven.github.io/public/index.html/static/css/main.2b96a337.chunk.css",
+    "main.js": "/james-craven.github.io/public/index.html/static/js/main.5cad27ed.chunk.js",
+    "main.js.map": "/james-craven.github.io/public/index.html/static/js/main.5cad27ed.chunk.js.map",
+    "runtime-main.js": "/james-craven.github.io/public/index.html/static/js/runtime-main.3d9aed92.js",
+    "runtime-main.js.map": "/james-craven.github.io/public/index.html/static/js/runtime-main.3d9aed92.js.map",
+    "static/css/2.b69a63ac.chunk.css": "/james-craven.github.io/public/index.html/static/css/2.b69a63ac.chunk.css",
+    "static/js/2.98885c9b.chunk.js": "/james-craven.github.io/public/index.html/static/js/2.98885c9b.chunk.js",
+    "static/js/2.98885c9b.chunk.js.map": "/james-craven.github.io/public/index.html/static/js/2.98885c9b.chunk.js.map",
+    "index.html": "/james-craven.github.io/public/index.html/index.html",
+    "static/css/2.b69a63ac.chunk.css.map": "/james-craven.github.io/public/index.html/static/css/2.b69a63ac.chunk.css.map",
+    "static/css/main.2b96a337.chunk.css.map": "/james-craven.github.io/public/index.html/static/css/main.2b96a337.chunk.css.map",
+    "static/js/2.98885c9b.chunk.js.LICENSE.txt": "/james-craven.github.io/public/index.html/static/js/2.98885c9b.chunk.js.LICENSE.txt",
+    "static/media/abbrs.ebd0e99b.xlsx": "/james-craven.github.io/public/index.html/static/media/abbrs.ebd0e99b.xlsx"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d9aed92.js",
+    "static/css/2.b69a63ac.chunk.css",
+    "static/js/2.98885c9b.chunk.js",
+    "static/css/main.2b96a337.chunk.css",
+    "static/js/main.5cad27ed.chunk.js"
+  ]
+}
